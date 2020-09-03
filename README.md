@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning Java Script, HTML, CSS, Git, Sass, Bootstrap
+
 🔭 I’m currently working on this Github portoflio and projects
 
 <!--
