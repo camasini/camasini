@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Java Script, HTML, CSS, Git, Sass, Bootstrap
+🔭 I’m currently working on this Github portoflio and projects
+
 <!--
 **camasini/camasini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
